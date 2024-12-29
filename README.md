@@ -1,2 +1,3 @@
 "# MTMedia" 
-basicall will be face changing bot in discord
+basicall will be a face changing bot in discord
+it will be used to make meme image
